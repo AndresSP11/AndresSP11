@@ -2,7 +2,11 @@
 <h3 align="center">I am a person who loves to learn new technologies every day, quite enthusiastic when solving algorithm problems. I like programming since the beginning of the University because it attracted something in me that I can solve what is within my imagination. Programming has broken barriers to my creativity.</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" />
+</div>
+<div id="header" align="center">
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" width="200"/>
 </div>
 
 - 🌱 I’m currently learning **Node.js-Express-MongoDB**
