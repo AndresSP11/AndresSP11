@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **andres.salazar.p@uni.pe**
+- 📫 How to reach me **programadoralacorriente@gmail.com**
 
 - 📄 Know about my experiences [Freelancer-Code](Freelancer-Code)
 
