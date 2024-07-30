@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anderson Andres Salazar Pizarro</h1>
+<h1 align="center">Hi 👋, I'm Anderson/h1>
 <h3 align="center">I am a person who loves to learn new technologies every day, quite enthusiastic when solving algorithm problems. I like programming since the beginning of the University because it attracted something in me that I can solve what is within my imagination. Programming has broken barriers to my creativity.</h3>
 
 <div id="header" align="center">
